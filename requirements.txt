@@ -1,0 +1,7 @@
+llvmlite==0.42.0
+numba==0.59.1
+customtkinter
+audio-separator[cpu]
+pydub
+stable-ts[fw]
+requests
